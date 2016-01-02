@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>$id$</id>
+    <version>$version$-beta</version>
+    <title>MeetEric Security for Azure</title>
+    <authors>MeetEric.NET</authors>
+    <owners>MeetEric.NET</owners>
+    <licenseUrl>https://raw.githubusercontent.com/ericmaino/meeteric-security-azure/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/ericmaino/meeteric-security-azure</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A collection of security helper libraries for working with Azure.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright c MeetEric>NET. All Rights Reserved.</copyright>
+    <tags>MeetEric Security Azure ActiveDirectory Active Directory</tags>
+  </metadata>
+</package>
